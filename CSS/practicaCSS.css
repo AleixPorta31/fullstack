@@ -1,0 +1,21 @@
+h2{
+    color:rgb(31, 22, 204);
+}
+
+a:hover{
+    font-weight: bold;
+    font-size: 25px;
+    color: purple;
+}
+
+input:focus{
+    background-color: goldenrod;
+}
+
+p.letra{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.provando :first-child{
+    color: red;
+}

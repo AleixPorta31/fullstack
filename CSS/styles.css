@@ -1,3 +1,16 @@
-body{
+h1.titulo{
     background-color: goldenrod;
+    text-align: center;    
+}
+
+section.multimedia{
+    margin: 20px;
+}
+
+video, audio, iframe, .twitter-tweet{
+    display: flex;
+    margin: 0 auto;
+}
+h2{
+ text-align: center;
 }
